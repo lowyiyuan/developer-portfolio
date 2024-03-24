@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Master of Cybersecurity",
+    duration: "2022 - Present",
+    institution: "Edith Cowan University (Joondalup)",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "BSc (Hons) Cybersecurity",
+    duration: "2019 - 2021",
+    institution: "Staffordshire University",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Diploma in Software Engineering",
+    duration: "2017 - 2019",
+    institution: "Asia Pacific University",
   }
 ]
