@@ -20,7 +20,7 @@ export const experiences = [
   {
     id: 4,
     title: "Intern Software Engineer",
-    company: "Software International (C) Malaysia Sdn. Bhd.",
+    company: "Software International Corporation Malaysia Sdn. Bhd.",
     duration: "(September 2019 - November 2019)"
   }
 ]
